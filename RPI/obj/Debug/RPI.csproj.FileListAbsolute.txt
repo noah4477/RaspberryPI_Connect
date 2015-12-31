@@ -1,0 +1,24 @@
+C:\Users\Noah\Desktop\Test\RPI\RPI\bin\Debug\RPI.exe.config
+C:\Users\Noah\Desktop\Test\RPI\RPI\bin\Debug\RPI.exe
+C:\Users\Noah\Desktop\Test\RPI\RPI\bin\Debug\RPI.pdb
+C:\Users\Noah\Desktop\Test\RPI\RPI\obj\Debug\RPI.Properties.Resources.resources
+C:\Users\Noah\Desktop\Test\RPI\RPI\obj\Debug\RPI.csproj.GenerateResource.Cache
+C:\Users\Noah\Desktop\Test\RPI\RPI\obj\Debug\RPI.exe
+C:\Users\Noah\Desktop\Test\RPI\RPI\obj\Debug\RPI.pdb
+C:\Users\Noah\Desktop\Test\RPI\RPI\obj\Debug\RPI.Form1.resources
+C:\Users\Noah\Desktop\Test\RPI\RPI\obj\Debug\RPI.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\Test\RPI\RPI\bin\Debug\Datastructure.dll
+C:\Users\Noah\Desktop\Test\RPI\RPI\bin\Debug\Datastructure.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\bin\Debug\RPI.exe.config
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\obj\Debug\RPI.exe
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\obj\Debug\RPI.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\bin\Debug\RPI.exe
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\bin\Debug\RPI.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\bin\Debug\HardwareMixerObj.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\obj\Debug\RPI.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\obj\Debug\RPI.Form1.resources
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\obj\Debug\RPI.Properties.Resources.resources
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\obj\Debug\RPI.csproj.GenerateResource.Cache
+C:\Users\Noah\Desktop\Test - Copy\RPI\RPI\bin\Debug\RPI.exe.config
+C:\Users\Noah\Desktop\Test - Copy\RPI\RPI\obj\Debug\RPI.exe
+C:\Users\Noah\Desktop\Test - Copy\RPI\RPI\obj\Debug\RPI.pdb

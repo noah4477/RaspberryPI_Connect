@@ -1,0 +1,11 @@
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\bin\Release\RPI.exe.config
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\obj\Release\RPI.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\obj\Release\RPI.Form1.resources
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\obj\Release\RPI.Properties.Resources.resources
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\obj\Release\RPI.csproj.GenerateResource.Cache
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\bin\Release\RPI.exe
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\bin\Release\RPI.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\obj\Release\RPI.exe
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\obj\Release\RPI.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\bin\Release\HardwareMixerObj.dll
+C:\Users\Noah\Desktop\Hardware Mixer\Test\RPI\RPI\bin\Release\HardwareMixerObj.pdb
